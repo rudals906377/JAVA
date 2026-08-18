@@ -1,5 +1,5 @@
 package JAVA0818;
-
+//배열
 import java.util.Scanner;
 
 public class JAVA1 {

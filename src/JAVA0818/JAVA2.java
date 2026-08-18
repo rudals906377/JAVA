@@ -1,5 +1,5 @@
 package JAVA0818;
-
+// 배열 초기화
 public class JAVA2 {
     public static void main(String[] args) {
         int[] num = {100,200,300,400,500};
