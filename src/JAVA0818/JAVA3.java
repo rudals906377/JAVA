@@ -11,8 +11,12 @@ public class JAVA3 {
 
         System.out.println("추가된 배열의 길이 : " + num.length);
 
-        for (int i = 0; i < num.length; i++) {
-            System.out.print(num[i] + " ");
+//        for (int i = 0; i < num.length; i++) {
+//            System.out.print(num[i] + " ");
+//        }
+        for (int data : num) {
+            System.out.print(data + " ");
         }
+
     }
 }
